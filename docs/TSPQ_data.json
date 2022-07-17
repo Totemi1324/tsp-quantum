@@ -17,6 +17,7 @@
         }
     ],
     "ciy_1_solutions": {
+        "solution_texts": ["Rooks on a chess board can move any number of fields horizontally and vertically. Since, therefore, multiple rooks cannot stand in the same row or column without threatening each other, the QUBO equation must enforce the following ruleset:\n\n1. Exactly one field per row is occupied\n2.Exactly one field per column is occupied\n\nIf you create a 4x4 table with variables a to p like earlier, the QUBO equation is the following:", "Transferring the coefficients to the Hamiltonian, you get:"],
         
     },
     "example_hamiltonians": [
