@@ -16,6 +16,9 @@
             "display": "f\\left(a,b,c,d\\right)=\\left(a+b-1\\right)^2+\\left(c+d-1\\right)^2+\\left(a+c-1\\right)^2+\\left(c+d-1\\right)^2=-2a-2b-2c-2d+2ab+2ac+2bd+2cd"
         }
     ],
+    "ciy_1_solutions": {
+        
+    },
     "example_hamiltonians": [
         {
             "title": "n=4 cities example (from Section 4)",
